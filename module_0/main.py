@@ -4,14 +4,14 @@ import random
 
 # Алгоритм игры с ссылкой на функцию прогнозирования чисел
 def game_core_v3(number):
-    count = 0
-    predict = random.randint(35, 65)
+    count = 1
+    predict = np.random.randint(35, 65)
     num_min = int(1)
     num_max = int(101)
     while number != predict:
         count += 1
         if number > predict:
-            print(predict)
+
             num_min = predict
             predict = predict_numbers(num_min, num_max)
         elif number < predict:
@@ -33,7 +33,6 @@ def score_game(game_core):
     np.random.seed(1)  # фиксируем RANDOM SEED, чтобы ваш эксперимент был воспроизводим!
     random_array = np.random.randint(1, 101, size=(1000))
     for number in random_array:
-        print ("number: ",number)
         count_ls.append(game_core(number))
     score = int(np.mean(count_ls))
     print(f"Ваш алгоритм угадывает число в среднем за {score} попыток")
