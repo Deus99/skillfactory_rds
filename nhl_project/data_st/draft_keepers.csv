@@ -1,0 +1,86 @@
+player,age,pos,caphit,expiry,decr,team,position
+Ryan Miller,40,G,"$1,000,000",UFA (2021),,Anaheim Ducks,goalkeeper
+Anthony Stolarz,27,G,"$750,000",UFA (2023),,Anaheim Ducks,goalkeeper
+Antti Raanta,32,G,"$4,250,000",UFA (2021),,Arizona Coyotes,goalkeeper
+Adin Hill,25,G,"$800,000",RFA (2021),,Arizona Coyotes,goalkeeper
+Jaroslav Halák,36,G,"$2,250,000",UFA (2021),,Boston Bruins,goalkeeper
+Daniel Vladar,23,G,"$750,000",RFA (2023),,Boston Bruins,goalkeeper
+Callum Booth,24,G,"$700,000",RFA (2021),,Boston Bruins,goalkeeper
+Carter Hutton,35,G,"$2,750,000",UFA (2021),,Buffalo Sabres,goalkeeper
+Linus Ullmark,27,G,"$2,600,000",UFA (2021),,Buffalo Sabres,goalkeeper
+Dustin Tokarski,31,G,"$725,000",UFA (2022),,Buffalo Sabres,goalkeeper
+Tyler Parsons,23,G,"$735,000",RFA (2021),,Calgary Flames,goalkeeper
+Louis Domingue,29,G,"$700,000",UFA (2021),,Calgary Flames,goalkeeper
+James Reimer,33,G,"$3,400,000",UFA (2021),,Carolina Hurricanes,goalkeeper
+Jeremy Helvig,24,G,"$761,666",RFA (2021),,Carolina Hurricanes,goalkeeper
+Alex Nedeljkovic,25,G,"$737,500",RFA (2021),,Carolina Hurricanes,goalkeeper
+Antoine Bibeau,27,G,"$700,000",UFA (2021),,Carolina Hurricanes,goalkeeper
+Collin Delia,26,G,"$1,000,000",UFA (2022),,Chicago Blackhawks,goalkeeper
+Malcolm Subban,27,G,"$850,000",UFA (2022),,Chicago Blackhawks,goalkeeper
+Devan Dubnyk,35,G,"$4,333,333",UFA (2021),,Colorado Avalanche,goalkeeper
+Pavel Francouz,31,G,"$2,000,000",UFA (2022),,Colorado Avalanche,goalkeeper
+Hunter Miska,25,G,"$725,000",RFA (2022),,Colorado Avalanche,goalkeeper
+Jonas Johansson,25,G,"$700,000",UFA (2021),,Colorado Avalanche,goalkeeper
+Matiss Kivlenieks,24,G,"$725,000",RFA (2022),,Columbus Blue Jackets,goalkeeper
+Cam Johnson,26,G,"$700,000",RFA (2021),,Columbus Blue Jackets,goalkeeper
+Anton Khudobin,35,G,"$3,333,333",UFA (2023),,Dallas Stars,goalkeeper
+Colton Point,23,G,"$925,000",RFA (2021),,Dallas Stars,goalkeeper
+Landon Bow,25,G,"$700,000",UFA (2021),,Dallas Stars,goalkeeper
+Jonathan Bernier,32,G,"$3,000,000",UFA (2021),,Detroit Red Wings,goalkeeper
+Kevin Boyle,29,G,"$775,000",UFA (2021),,Detroit Red Wings,goalkeeper
+Calvin Pickard,29,G,"$750,000",UFA (2021),,Detroit Red Wings,goalkeeper
+Kaden Fulcher,22,G,"$733,333",RFA (2022),,Detroit Red Wings,goalkeeper
+Patrik Rybár,27,G,$0,RFA (2019),,Detroit Red Wings,goalkeeper
+Mike Smith,39,G,"$1,500,000",UFA (2021),,Edmonton Oilers,goalkeeper
+Alex Stalock,33,G,"$785,000",UFA (2022),,Edmonton Oilers,goalkeeper
+Stuart Skinner,22,G,"$784,166",RFA (2021),,Edmonton Oilers,goalkeeper
+Dylan Wells,23,G,"$745,000",RFA (2021),,Edmonton Oilers,goalkeeper
+Chris Driedger,27,G,"$850,000",UFA (2021),,Florida Panthers,goalkeeper
+Philippe Desrosiers,25,G,"$700,000",UFA (2021),,Florida Panthers,goalkeeper
+Samuel Montembeault,24,G,"$700,000",RFA (2021),,Florida Panthers,goalkeeper
+Jonathan Quick,35,G,"$5,800,000",UFA (2023),,Los Angeles Kings,goalkeeper
+Troy Grosenick,31,G,"$700,000",UFA (2021),,Los Angeles Kings,goalkeeper
+Cam Talbot,33,G,"$3,666,667",UFA (2023),,Minnesota Wild,goalkeeper
+Andrew Hammond,33,G,"$700,000",UFA (2021),,Minnesota Wild,goalkeeper
+Jake Allen,30,G,"$4,350,000",UFA (2023),,Montréal Canadiens,goalkeeper
+Charlie Lindgren,27,G,"$750,000",UFA (2021),,Montréal Canadiens,goalkeeper
+Michael McNiven,23,G,"$700,000",RFA (2021),,Montréal Canadiens,goalkeeper
+Pekka Rinne,38,G,"$5,000,000",UFA (2021),,Nashville Predators,goalkeeper
+Connor Ingram,24,G,"$733,333",RFA (2023),,Nashville Predators,goalkeeper
+Kasimir Kaskisuo,27,G,"$700,000",UFA (2021),,Nashville Predators,goalkeeper
+Aaron Dell,32,G,"$800,000",UFA (2021),,New Jersey Devils,goalkeeper
+Evan Cormier,23,G,"$718,333",RFA (2021),,New Jersey Devils,goalkeeper
+Scott Wedgewood,28,G,"$700,000",UFA (2021),,New Jersey Devils,goalkeeper
+Ken Appleby,26,G,"$725,000",UFA (2022),,New York Islanders,goalkeeper
+Cory Schneider,35,G,"$700,000",UFA (2021),,New York Islanders,goalkeeper
+Keith Kinkaid,31,G,"$825,000",UFA (2022),,New York Rangers,goalkeeper
+Filip Gustavsson,23,G,"$761,666",RFA (2021),,Ottawa Senators,goalkeeper
+Joey Daccord,24,G,"$750,000",RFA (2023),,Ottawa Senators,goalkeeper
+Anton Forsberg,28,G,"$700,000",UFA (2022),,Ottawa Senators,goalkeeper
+Marcus Högberg,26,G,"$700,000",RFA (2021),,Ottawa Senators,goalkeeper
+Brian Elliott,36,G,"$1,500,000",UFA (2021),,Philadelphia Flyers,goalkeeper
+Felix Sandström,24,G,"$792,500",RFA (2022),,Philadelphia Flyers,goalkeeper
+Alex Lyon,28,G,"$700,000",UFA (2021),,Philadelphia Flyers,goalkeeper
+Casey DeSmith,29,G,"$1,250,000",UFA (2022),,Pittsburgh Penguins,goalkeeper
+Maxime Lagacé,28,G,"$700,000",UFA (2021),,Pittsburgh Penguins,goalkeeper
+Josef Korenar,23,G,"$723,333",RFA (2021),,San Jose Sharks,goalkeeper
+Evan Fitzpatrick,23,G,"$770,000",RFA (2021),,St. Louis Blues,goalkeeper
+Ville Husso,26,G,"$750,000",UFA (2022),,St. Louis Blues,goalkeeper
+Jon Gillies,27,G,"$700,000",UFA (2021),,St. Louis Blues,goalkeeper
+Anders Nilsson,31,G,"$2,600,000",UFA (2021),,Tampa Bay Lightning,goalkeeper
+Curtis McElhinney,38,G,"$1,300,000",UFA (2021),,Tampa Bay Lightning,goalkeeper
+Christopher Gibson,28,G,"$700,000",UFA (2021),,Tampa Bay Lightning,goalkeeper
+Spencer Martin,26,G,"$700,000",UFA (2022),,Tampa Bay Lightning,goalkeeper
+Jack Campbell,29,G,"$1,650,000",UFA (2022),,Toronto Maple Leafs,goalkeeper
+David Rittich,28,G,"$2,750,000",UFA (2021),,Toronto Maple Leafs,goalkeeper
+Michael Hutchinson,31,G,"$725,000",UFA (2022),,Toronto Maple Leafs,goalkeeper
+Braden Holtby,31,G,"$4,300,000",UFA (2022),,Vancouver Canucks,goalkeeper
+Henrik Lundqvist,39,G,"$1,500,000",UFA (2021),,Washington Capitals,goalkeeper
+Pheonix Copley,29,G,"$1,100,000",UFA (2022),,Washington Capitals,goalkeeper
+Vitek Vanecek,25,G,"$716,667",RFA (2022),,Washington Capitals,goalkeeper
+Zachary Fucale,26,G,"$700,000",UFA (2023),,Washington Capitals,goalkeeper
+Craig Anderson,40,G,"$700,000",UFA (2021),,Washington Capitals,goalkeeper
+Laurent Brossoit,28,G,"$1,500,000",UFA (2021),,Winnipeg Jets,goalkeeper
+Mikhail Berdin,23,G,"$758,333",RFA (2023),,Winnipeg Jets,goalkeeper
+Eric Comrie,25,G,"$700,000",UFA (2021),,Winnipeg Jets,goalkeeper
+Cole Kehler,23,G,"$700,000",RFA (2021),,Winnipeg Jets,goalkeeper

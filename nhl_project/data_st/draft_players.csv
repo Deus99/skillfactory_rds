@@ -1,0 +1,613 @@
+player,age,pos,caphit,expiry,decr,team,position
+Ryan Getzlaf,36,C,"$8,250,000",UFA (2021),✔,Anaheim Ducks,forward
+Ryan Kesler,36,C,"$6,875,000",UFA (2022),27 GR,Anaheim Ducks,forward
+Adam Henrique,31,C,"$5,825,000",UFA (2024),✔,Anaheim Ducks,forward
+David Backes,37,C,"$6,000,000",UFA (2021),12 GR,Anaheim Ducks,forward
+Sonny Milano,25,LW,"$1,700,000",RFA (2022),✔,Anaheim Ducks,forward
+Derek Grant,31,C,"$1,500,000",UFA (2023),✔,Anaheim Ducks,forward
+Carter Rowney,32,C,"$1,133,333",UFA (2021),✔,Anaheim Ducks,forward
+Nicolas Deslauriers,30,RW,"$1,000,000",UFA (2022),✔,Anaheim Ducks,forward
+Isac Lundeström,21,C,"$925,000",RFA (2021),✔,Anaheim Ducks,forward
+Vinni Lettieri,26,C,"$750,000",UFA (2021),22 GR,Anaheim Ducks,forward
+Chase De Leo,25,C,"$700,000",UFA (2021),26 GR,Anaheim Ducks,forward
+Andrew Poturalski,27,C,"$700,000",UFA (2021),27 GR,Anaheim Ducks,forward
+Andrew Agozzino,30,C,"$700,000",UFA (2021),24 GR,Anaheim Ducks,forward
+Alexander Volkov,23,LW,"$700,000",RFA (2021),✔,Anaheim Ducks,forward
+Sam Carrick,29,C,"$700,000",UFA (2021),14 GR,Anaheim Ducks,forward
+Kevin Shattenkirk,32,RD,"$3,900,000",UFA (2023),✔,Anaheim Ducks,defense
+Haydn Fleury,24,LD/RD,"$1,300,000",RFA (2022),✔,Anaheim Ducks,defense
+Jacob Larsson,24,LD,"$1,200,000",RFA (2022),✔,Anaheim Ducks,defense
+Brendan Guhle,23,LD,"$800,000",RFA (2022),24 GR,Anaheim Ducks,defense
+Andy Welinski,28,RD,"$750,000",UFA (2021),14 GR,Anaheim Ducks,defense
+Josh Mahura,23,LD,"$745,000",RFA (2021),14 GR,Anaheim Ducks,defense
+Trevor Carrick,26,LD,"$700,000",UFA (2021),27 GR,Anaheim Ducks,defense
+Tyler Pitlick,29,RW,"$1,750,000",UFA (2022),✔,Arizona Coyotes,forward
+Johan Larsson,28,C,"$1,400,000",UFA (2022),✔,Arizona Coyotes,forward
+Derick Brassard,33,LW,"$1,000,000",UFA (2021),✔,Arizona Coyotes,forward
+Brayden Burke,24,LW,"$925,000",RFA (2021),27 GR,Arizona Coyotes,forward
+Tyler Steenbergen,23,C,"$770,833",RFA (2021),27 GR,Arizona Coyotes,forward
+John Hayden,26,C,"$750,000",RFA (2021),✔,Arizona Coyotes,forward
+Dryden Hunt,25,LW,"$750,000",RFA (2021),1 GR,Arizona Coyotes,forward
+Michael Bunting,25,LW,"$737,500",UFA (2021),6 GR,Arizona Coyotes,forward
+Hudson Fasching,25,RW,"$737,500",UFA (2021),22 GR,Arizona Coyotes,forward
+Blake Speers,24,C,"$735,000",RFA (2021),27 GR,Arizona Coyotes,forward
+Lane Pederson,23,C,"$735,000",RFA (2021),12 GR,Arizona Coyotes,forward
+Frédérik Gauthier,26,C,"$700,000",RFA (2021),✔,Arizona Coyotes,forward
+Michael Chaput,29,C,"$700,000",UFA (2021),14 GR,Arizona Coyotes,forward
+Emil Pettersson,27,C,$0,RFA (2019),27 GR,Arizona Coyotes,forward
+Alex Goligoski,35,LD/RD,"$5,475,000",UFA (2021),✔,Arizona Coyotes,defense
+Jason Demers,33,RD,"$4,500,000",UFA (2021),✔,Arizona Coyotes,defense
+Jordan Oesterle,28,LD/RD,"$1,400,000",UFA (2021),✔,Arizona Coyotes,defense
+Ilya Lyubushkin,27,RD,"$1,000,000",UFA (2022),✔,Arizona Coyotes,defense
+Kyle Capobianco,23,LD,"$775,000",RFA (2022),25 GR,Arizona Coyotes,defense
+Jordan Gross,26,RD,"$750,000",UFA (2021),20 GR,Arizona Coyotes,defense
+Cam Dineen,22,LD,"$745,000",RFA (2021),27 GR,Arizona Coyotes,defense
+Aaron Ness,31,LD,"$725,000",UFA (2021),26 GR,Arizona Coyotes,defense
+Dysin Mayo,24,RD,"$700,000",RFA (2021),27 GR,Arizona Coyotes,defense
+Vili Saarijärvi,24,RD,"$697,500",RFA (2020),27 GR,Arizona Coyotes,defense
+David Krejci,35,C,"$7,250,000",UFA (2021),✔,Boston Bruins,forward
+Taylor Hall,29,LW,"$8,000,000",UFA (2021),✔,Boston Bruins,forward
+Craig Smith,31,RW,"$3,100,000",UFA (2023),✔,Boston Bruins,forward
+Chris Wagner,30,RW,"$1,350,000",UFA (2023),✔,Boston Bruins,forward
+Sean Kuraly,28,C,"$1,275,000",UFA (2021),✔,Boston Bruins,forward
+Trent Frederic,23,C,"$925,000",RFA (2021),✔,Boston Bruins,forward
+Curtis Lazar,26,C,"$800,000",UFA (2022),✔,Boston Bruins,forward
+Cameron Hughes,24,C,"$792,500",RFA (2021),26 GR,Boston Bruins,forward
+Joona Koppanen,23,LW,"$753,333",RFA (2021),27 GR,Boston Bruins,forward
+Karson Kuhlman,25,RW,"$725,000",RFA (2022),1 GR,Boston Bruins,forward
+Zach Senyshyn,24,RW,"$700,000",RFA (2021),19 GR,Boston Bruins,forward
+Anton Blidh,26,LW,"$700,000",UFA (2021),17 GR,Boston Bruins,forward
+Paul Carey,32,C,"$700,000",UFA (2021),27 GR,Boston Bruins,forward
+Greg McKegg,28,C,"$700,000",UFA (2021),✔,Boston Bruins,forward
+Peter Cehlárik,25,LW,"$700,000",RFA (2020),27 GR,Boston Bruins,forward
+Jakob Forsbacka Karlsson,24,RW,$0,RFA (2019),27 GR,Boston Bruins,forward
+John Moore,30,LD,"$2,750,000",UFA (2023),22 GR,Boston Bruins,defense
+Mike Reilly,27,LD,"$1,500,000",UFA (2021),✔,Boston Bruins,defense
+Kevan Miller,33,RD,"$1,250,000",UFA (2021),✔,Boston Bruins,defense
+Connor Clifton,26,LD/RD,"$1,000,000",UFA (2023),✔,Boston Bruins,defense
+Jérémy Lauzon,24,LD/RD,"$850,000",RFA (2022),✔,Boston Bruins,defense
+Steven Kampfer,32,RD,"$800,000",UFA (2021),7 GR,Boston Bruins,defense
+Jakub Zboril,24,LD,"$725,000",RFA (2022),✔,Boston Bruins,defense
+Jarred Tinordi,29,LD,"$700,000",UFA (2021),✔,Boston Bruins,defense
+Kyle Okposo,33,RW,"$6,000,000",UFA (2023),✔,Buffalo Sabres,forward
+Cody Eakin,30,C,"$2,250,000",UFA (2022),✔,Buffalo Sabres,forward
+Zemgus Girgensons,27,C,"$2,200,000",UFA (2023),✔,Buffalo Sabres,forward
+Anders Bjork,24,LW,"$1,600,000",RFA (2023),✔,Buffalo Sabres,forward
+Rasmus Asplund,23,C,"$845,000",RFA (2021),✔,Buffalo Sabres,forward
+Andrew Oglevie,26,C,"$750,000",UFA (2022),27 GR,Buffalo Sabres,forward
+Jean-Sébastien Dea,27,C,"$700,000",UFA (2021),26 GR,Buffalo Sabres,forward
+C.J. Smith,26,LW,"$700,000",UFA (2021),26 GR,Buffalo Sabres,forward
+Tobias Rieder,28,RW,"$700,000",UFA (2021),✔,Buffalo Sabres,forward
+Drake Caggiula,26,LW,"$700,000",UFA (2021),✔,Buffalo Sabres,forward
+Riley Sheahan,29,LW,"$700,000",UFA (2021),✔,Buffalo Sabres,forward
+Steven Fogarty,28,C,"$700,000",UFA (2021),18 GR,Buffalo Sabres,forward
+Rasmus Ristolainen,26,RD,"$5,400,000",UFA (2022),✔,Buffalo Sabres,defense
+Jake McCabe,27,LD,"$2,850,000",UFA (2021),✔,Buffalo Sabres,defense
+William Borgen,24,RD,"$864,166",RFA (2021),17 GR,Buffalo Sabres,defense
+Matt Irwin,33,LD/RD,"$700,000",UFA (2021),✔,Buffalo Sabres,defense
+Brandon Davidson,29,LD,"$700,000",UFA (2021),21 GR,Buffalo Sabres,defense
+Lawrence Pilut,25,LD,"$925,000",RFA (2020),27 GR,Buffalo Sabres,defense
+Mikael Backlund,32,C,"$5,350,000",UFA (2024),✔,Calgary Flames,forward
+Derek Ryan,34,RW,"$3,125,000",UFA (2021),✔,Calgary Flames,forward
+Josh Leivo,28,RW,"$875,000",UFA (2021),✔,Calgary Flames,forward
+Matthew Phillips,23,C,"$733,333",RFA (2021),27 GR,Calgary Flames,forward
+Byron Froese,30,C,"$725,000",UFA (2022),21 GR,Calgary Flames,forward
+Joakim Nordström,29,LW,"$700,000",UFA (2021),✔,Calgary Flames,forward
+Dominik Simon,26,RW,"$700,000",RFA (2021),✔,Calgary Flames,forward
+Glenn Gawdin,24,C,"$700,000",RFA (2021),20 GR,Calgary Flames,forward
+Buddy Robinson,29,RW,"$700,000",UFA (2021),18 GR,Calgary Flames,forward
+Brett Ritchie,27,RW,"$700,000",UFA (2021),✔,Calgary Flames,forward
+Justin Kirkland,24,LW,"$700,000",RFA (2021),27 GR,Calgary Flames,forward
+Zac Rinaldo,31,LW,"$700,000",UFA (2021),23 GR,Calgary Flames,forward
+Spencer Foo,27,RW,$0,RFA (2019),27 GR,Calgary Flames,forward
+Christopher Tanev,31,RD,"$4,500,000",UFA (2024),✔,Calgary Flames,defense
+Oliver Kylington,24,LD,"$787,500",RFA (2021),✔,Calgary Flames,defense
+Nikita Nesterov,28,LD,"$700,000",UFA (2021),✔,Calgary Flames,defense
+Michael Stone,31,RD,"$700,000",UFA (2021),2 GR,Calgary Flames,defense
+Alex Petrovic,29,RD,"$700,000",UFA (2021),27 GR,Calgary Flames,defense
+Brock McGinn,27,LW,"$2,100,000",UFA (2021),✔,Carolina Hurricanes,forward
+Jordan Martinook,28,C,"$2,000,000",UFA (2021),✔,Carolina Hurricanes,forward
+Jesper Fast,29,RW,"$2,000,000",UFA (2023),✔,Carolina Hurricanes,forward
+Cédric Paquette,27,C,"$1,650,000",UFA (2021),✔,Carolina Hurricanes,forward
+Morgan Geekie,22,C,"$763,333",RFA (2021),✔,Carolina Hurricanes,forward
+Spencer Smallman,24,RW,"$735,000",RFA (2021),27 GR,Carolina Hurricanes,forward
+Steven Lorentz,25,C,"$725,000",RFA (2022),✔,Carolina Hurricanes,forward
+Sheldon Rempal,25,LW,"$700,000",UFA (2021),24 GR,Carolina Hurricanes,forward
+Drew Shore,30,C,"$700,000",UFA (2021),23 GR,Carolina Hurricanes,forward
+Max McCormick,29,LW,"$700,000",UFA (2021),15 GR,Carolina Hurricanes,forward
+Saku Maenalanen,27,RW,$0,RFA (2019),27 GR,Carolina Hurricanes,forward
+Brady Skjei,27,LD,"$5,250,000",UFA (2024),✔,Carolina Hurricanes,defense
+Jake Gardiner,30,LD,"$4,050,000",UFA (2023),✔,Carolina Hurricanes,defense
+Jake Bean,23,LD,"$863,333",RFA (2021),✔,Carolina Hurricanes,defense
+Jani Hakanpää,29,RD,"$750,000",UFA (2021),✔,Carolina Hurricanes,defense
+Maxime Lajoie,23,LD,"$710,000",RFA (2021),25 GR,Carolina Hurricanes,defense
+Joakim Ryan,27,LD,"$700,000",UFA (2021),15 GR,Carolina Hurricanes,defense
+David Warsofsky,31,LD,"$700,000",UFA (2021),27 GR,Carolina Hurricanes,defense
+Roland McKeown,25,RD,"$700,000",UFA (2021),27 GR,Carolina Hurricanes,defense
+Cavan Fitzgerald,24,LD,$0,RFA (2023),27 GR,Carolina Hurricanes,defense
+Brett Connolly,29,RW,"$3,500,000",UFA (2023),✔,Chicago Blackhawks,forward
+Zack Smith,33,LW,"$3,250,000",UFA (2021),4 GR,Chicago Blackhawks,forward
+Ryan Carpenter,30,RW,"$1,000,000",UFA (2022),✔,Chicago Blackhawks,forward
+Vinnie Hinostroza,27,RW,"$1,000,000",UFA (2021),✔,Chicago Blackhawks,forward
+Josh Dickinson,23,C,"$925,000",RFA (2021),27 GR,Chicago Blackhawks,forward
+Brandon Hagel,22,LW,"$880,833",RFA (2021),✔,Chicago Blackhawks,forward
+Alexander Nylander,23,RW,"$863,333",RFA (2021),✔,Chicago Blackhawks,forward
+Brandon Pirri,30,RW,"$775,000",UFA (2021),26 GR,Chicago Blackhawks,forward
+John Quenneville,25,LW,"$750,000",UFA (2021),27 GR,Chicago Blackhawks,forward
+Victor Ejdsell,26,C,$0,RFA (2019),27 GR,Chicago Blackhawks,forward
+Henrik Borgström,23,C,"$925,000",RFA (2023),27 GR,Chicago Blackhawks,forward
+Calvin De Haan,30,LD/RD,"$4,550,000",UFA (2022),✔,Chicago Blackhawks,defense
+Nikita Zadorov,26,LD/RD,"$3,200,000",RFA (2021),✔,Chicago Blackhawks,defense
+Riley Stillman,23,LD,"$773,333",RFA (2024),✔,Chicago Blackhawks,defense
+Anton Lindholm,26,LD,"$742,500",UFA (2021),27 GR,Chicago Blackhawks,defense
+Brandon Saad,28,RW,"$6,000,000",UFA (2021),✔,Colorado Avalanche,forward
+Nazem Kadri,30,C,"$4,500,000",UFA (2022),✔,Colorado Avalanche,forward
+Matt Calvert,31,LW,"$2,850,000",UFA (2021),✔,Colorado Avalanche,forward
+Valeri Nichushkin,26,LW,"$2,500,000",UFA (2022),✔,Colorado Avalanche,forward
+Pierre-Édouard Bellemare,36,C,"$1,800,000",UFA (2021),✔,Colorado Avalanche,forward
+Carl Söderberg,35,C,"$1,000,000",UFA (2021),✔,Colorado Avalanche,forward
+T.J. Tynan,29,C,"$800,000",UFA (2021),27 GR,Colorado Avalanche,forward
+Sheldon Dries,27,C,"$771,750",UFA (2021),24 GR,Colorado Avalanche,forward
+Kiefer Sherwood,26,RW,"$750,000",RFA (2021),9 GR,Colorado Avalanche,forward
+Travis Barron,22,LW,"$741,666",RFA (2021),27 GR,Colorado Avalanche,forward
+Logan O'Connor,24,RW,"$725,000",RFA (2022),3 GR,Colorado Avalanche,forward
+Ty Lewis,23,LW,"$716,666",RFA (2021),27 GR,Colorado Avalanche,forward
+Liam O'Brien,26,C,"$700,000",UFA (2021),15 GR,Colorado Avalanche,forward
+Michael Vecchione,28,C,"$700,000",UFA (2021),27 GR,Colorado Avalanche,forward
+Jayson Megna,31,RW,"$700,000",UFA (2021),20 GR,Colorado Avalanche,forward
+Miikka Salomäki,28,LW,"$700,000",UFA (2021),27 GR,Colorado Avalanche,forward
+Vladislav Kamenev,24,C,"$750,000",RFA (2020),16 GR,Colorado Avalanche,forward
+Devon Toews,27,LD,"$4,100,000",UFA (2024),✔,Colorado Avalanche,defense
+Ryan Graves,26,LD,"$3,166,667",UFA (2023),✔,Colorado Avalanche,defense
+Patrik Nemeth,29,LD,"$3,000,000",UFA (2021),✔,Colorado Avalanche,defense
+Dennis Gilbert,24,LD,"$925,000",RFA (2021),24 GR,Colorado Avalanche,defense
+Jacob MacDonald,28,LD,"$725,000",UFA (2022),✔,Colorado Avalanche,defense
+Kyle Burroughs,25,RD,"$700,000",UFA (2021),22 GR,Colorado Avalanche,defense
+Daniel Renouf,27,LD,"$700,000",UFA (2021),9 GR,Colorado Avalanche,defense
+Sergei Boikov,25,LD,$0,RFA (2019),27 GR,Colorado Avalanche,defense
+Brandon Dubinsky,35,C,"$5,850,000",UFA (2021),27 GR,Columbus Blue Jackets,forward
+Mikhail Grigorenko,27,C,"$1,200,000",UFA (2021),✔,Columbus Blue Jackets,forward
+Eric Robinson,26,LW,"$975,000",UFA (2022),✔,Columbus Blue Jackets,forward
+Kevin Stenlund,24,RW,"$874,125",RFA (2021),✔,Columbus Blue Jackets,forward
+Nathan Gerbe,33,LW,"$750,000",UFA (2022),13 GR,Columbus Blue Jackets,forward
+Zac Dalpe,31,C,"$750,000",UFA (2021),15 GR,Columbus Blue Jackets,forward
+Cliff Pu,23,RW,"$745,000",RFA (2021),27 GR,Columbus Blue Jackets,forward
+Kole Sherwood,24,RW,"$735,000",RFA (2021),21 GR,Columbus Blue Jackets,forward
+Stefan Matteau,27,LW,"$725,000",UFA (2021),9 GR,Columbus Blue Jackets,forward
+Ryan MacInnis,25,C,"$700,000",UFA (2021),11 GR,Columbus Blue Jackets,forward
+Calvin Thürkauf,23,C,"$700,000",RFA (2021),27 GR,Columbus Blue Jackets,forward
+Dean Kukan,27,RD,"$1,650,000",UFA (2022),✔,Columbus Blue Jackets,defense
+Scott Harrington,28,LD,"$1,633,333",UFA (2022),2 GR,Columbus Blue Jackets,defense
+Gabriel Carlsson,24,LD,"$725,000",RFA (2022),13 GR,Columbus Blue Jackets,defense
+Gavin Bayreuther,27,LD,"$710,000",UFA (2021),18 GR,Columbus Blue Jackets,defense
+Michael Del Zotto,30,LD,"$700,000",UFA (2021),✔,Columbus Blue Jackets,defense
+Adam Clendening,28,RD,"$700,000",UFA (2021),27 GR,Columbus Blue Jackets,defense
+Andrew Cogliano,34,LW,"$3,250,000",UFA (2021),✔,Dallas Stars,forward
+Blake Comeau,35,LW,"$2,400,000",UFA (2021),✔,Dallas Stars,forward
+Jason Dickinson,25,C,"$1,500,000",RFA (2021),✔,Dallas Stars,forward
+Adam Mascherin,23,C,"$775,000",RFA (2021),27 GR,Dallas Stars,forward
+Tanner Kero,28,C,"$762,500",UFA (2023),✔,Dallas Stars,forward
+Justin Dowling,30,C,"$750,000",UFA (2021),✔,Dallas Stars,forward
+Nicholas Caamano,22,LW,"$738,333",RFA (2021),3 GR,Dallas Stars,forward
+Joel L'Esperance,25,C,"$725,000",RFA (2022),15 GR,Dallas Stars,forward
+Stephen Johns,29,RD,"$2,350,000",UFA (2021),27 GR,Dallas Stars,defense
+Jamie Oleksiak,28,LD,"$2,137,500",UFA (2021),✔,Dallas Stars,defense
+Sami Vatanen,30,LD/RD,"$2,000,000",UFA (2021),✔,Dallas Stars,defense
+Andrej Sekera,35,LD/RD,"$1,500,000",UFA (2022),✔,Dallas Stars,defense
+Benjamin Gleason,23,LD,"$761,666",RFA (2021),27 GR,Dallas Stars,defense
+Mark Pysyk,29,RD,"$750,000",UFA (2021),✔,Dallas Stars,defense
+Taylor Fedun,33,RD,"$737,500",UFA (2021),16 GR,Dallas Stars,defense
+Julius Honka,25,RD,"$700,000",RFA (2021),27 GR,Dallas Stars,defense
+Joel Hanley,30,LD,"$700,000",UFA (2023),✔,Dallas Stars,defense
+Niklas Hansson,26,RD,$0,RFA (2019),27 GR,Dallas Stars,defense
+Frans Nielsen,37,C,"$5,250,000",UFA (2022),✔,Detroit Red Wings,forward
+Darren Helm,34,C,"$3,850,000",UFA (2021),✔,Detroit Red Wings,forward
+Valtteri Filppula,37,C,"$3,000,000",UFA (2021),✔,Detroit Red Wings,forward
+Richard Pánik,30,LW,"$2,750,000",UFA (2023),✔,Detroit Red Wings,forward
+Luke Glendening,32,C,"$1,800,000",UFA (2021),✔,Detroit Red Wings,forward
+Bobby Ryan,34,RW,"$1,000,000",UFA (2021),✔,Detroit Red Wings,forward
+Adam Erne,26,LW,"$997,500",RFA (2021),✔,Detroit Red Wings,forward
+Sam Gagner,31,C,"$850,000",UFA (2021),✔,Detroit Red Wings,forward
+Taro Hirose,24,LW,"$825,000",UFA (2021),21 GR,Detroit Red Wings,forward
+Riley Barber,27,RW,"$800,000",UFA (2022),27 GR,Detroit Red Wings,forward
+Hayden Verbeek,23,C,"$753,333",RFA (2021),27 GR,Detroit Red Wings,forward
+Dominic Turgeon,25,C,"$750,000",UFA (2021),27 GR,Detroit Red Wings,forward
+Turner Elson,28,LW,"$725,000",UFA (2021),27 GR,Detroit Red Wings,forward
+Givani Smith,23,LW,"$714,166",RFA (2021),11 GR,Detroit Red Wings,forward
+Kyle Criscuolo,29,C,"$700,000",UFA (2021),27 GR,Detroit Red Wings,forward
+Marc Staal,34,LD,"$5,700,000",UFA (2021),✔,Detroit Red Wings,defense
+Danny DeKeyser,31,LD,"$5,000,000",UFA (2022),✔,Detroit Red Wings,defense
+Christian Djoos,26,LD,"$1,000,000",RFA (2021),✔,Detroit Red Wings,defense
+Alex Biega,33,RD,"$875,000",UFA (2021),✔,Detroit Red Wings,defense
+Gustav Lindström,22,RD,"$775,833",RFA (2021),14 GR,Detroit Red Wings,defense
+Dylan McIlrath,29,RD,"$700,000",UFA (2021),27 GR,Detroit Red Wings,defense
+Joe Hicketts,25,LD,"$700,000",UFA (2021),27 GR,Detroit Red Wings,defense
+James Neal,33,RW,"$5,750,000",UFA (2023),✔,Edmonton Oilers,forward
+Alex Chiasson,30,RW,"$2,150,000",UFA (2021),✔,Edmonton Oilers,forward
+Kyle Turris,31,C,"$1,650,000",UFA (2022),✔,Edmonton Oilers,forward
+Josh Archibald,28,RW,"$1,500,000",UFA (2022),✔,Edmonton Oilers,forward
+Jujhar Khaira,26,C,"$1,200,000",RFA (2021),✔,Edmonton Oilers,forward
+Tyler Ennis,31,C,"$1,000,000",UFA (2021),✔,Edmonton Oilers,forward
+Cooper Marody,24,C,"$925,000",RFA (2021),27 GR,Edmonton Oilers,forward
+Tyler Benson,23,LW,"$808,333",RFA (2021),27 GR,Edmonton Oilers,forward
+Alan Quine,28,C,"$750,000",UFA (2021),27 GR,Edmonton Oilers,forward
+Seth Griffith,28,RW,"$725,000",UFA (2022),27 GR,Edmonton Oilers,forward
+Adam Cracknell,35,RW,"$700,000",UFA (2021),27 GR,Edmonton Oilers,forward
+Devin Shore,26,LW,"$700,000",UFA (2023),✔,Edmonton Oilers,forward
+Joseph Gambardella,27,LW,"$700,000",UFA (2021),27 GR,Edmonton Oilers,forward
+Patrick Russell,28,RW,"$700,000",UFA (2021),1 GR,Edmonton Oilers,forward
+Adam Larsson,28,RD,"$4,166,666",UFA (2021),✔,Edmonton Oilers,defense
+Kris Russell,34,LD/RD,"$4,000,000",UFA (2022),✔,Edmonton Oilers,defense
+Tyson Barrie,29,RD,"$3,750,000",UFA (2021),✔,Edmonton Oilers,defense
+Dmitry Kulikov,30,LD,"$1,150,000",UFA (2021),✔,Edmonton Oilers,defense
+Caleb Jones,24,LD,"$850,000",RFA (2022),✔,Edmonton Oilers,defense
+Slater Koekkoek,27,LD/RD,"$850,000",UFA (2021),✔,Edmonton Oilers,defense
+William Lagesson,25,LD,"$725,000",RFA (2022),8 GR,Edmonton Oilers,defense
+Sam Bennett,24,LW,"$2,550,000",RFA (2021),✔,Florida Panthers,forward
+Noel Acciari,29,RW,"$1,666,667",UFA (2022),✔,Florida Panthers,forward
+Patrick Bajkov,23,RW,"$809,166",RFA (2021),27 GR,Florida Panthers,forward
+Brad Morrison,24,C,"$743,333",RFA (2021),27 GR,Florida Panthers,forward
+Ryan Lomberg,26,LW,"$725,000",UFA (2022),✔,Florida Panthers,forward
+Juho Lammikko,25,C,"$725,000",RFA (2021),✔,Florida Panthers,forward
+Mason Marchment,26,LW,"$700,000",UFA (2022),✔,Florida Panthers,forward
+Scott Wilson,29,LW,"$700,000",UFA (2021),27 GR,Florida Panthers,forward
+Aleksi Saarela,24,C,"$753,333",RFA (2020),27 GR,Florida Panthers,forward
+Maxim Mamin,26,LW,$0,RFA (2019),27 GR,Florida Panthers,forward
+Anton Strålman,34,RD,"$5,500,000",UFA (2022),✔,Florida Panthers,defense
+Brandon Montour,27,LD/RD,"$3,850,000",UFA (2021),✔,Florida Panthers,defense
+Markus Nutivaara,27,RD,"$2,700,000",UFA (2022),✔,Florida Panthers,defense
+Radko Gudas,31,RD,"$2,500,000",UFA (2023),✔,Florida Panthers,defense
+Lucas Carlsson,23,LD,"$792,500",RFA (2021),15 GR,Florida Panthers,defense
+Ethan Prow,28,RD,"$725,000",UFA (2021),27 GR,Florida Panthers,defense
+Tommy Cross,31,LD,"$725,000",UFA (2021),27 GR,Florida Panthers,defense
+Brady Keeper,25,RD,"$715,000",UFA (2021),26 GR,Florida Panthers,defense
+Kevin Connauton,31,LD,"$700,000",UFA (2022),20 GR,Florida Panthers,defense
+Gustav Forsling,25,LD,"$700,000",RFA (2021),✔,Florida Panthers,defense
+Noah Juulsen,24,RD,"$700,000",RFA (2021),23 GR,Florida Panthers,defense
+Austin Wagner,23,RW,"$1,133,333",RFA (2023),✔,Los Angeles Kings,forward
+Blake Lizotte,23,C,"$925,000",RFA (2021),✔,Los Angeles Kings,forward
+Trevor Moore,26,RW,"$775,000",RFA (2021),✔,Los Angeles Kings,forward
+Bokondji Imama,24,LW,"$735,000",RFA (2021),27 GR,Los Angeles Kings,forward
+Drake Rymsha,22,C,"$733,333",RFA (2021),26 GR,Los Angeles Kings,forward
+Martin Frk,27,RW,"$725,000",UFA (2022),26 GR,Los Angeles Kings,forward
+Matt Luff,24,RW,"$700,000",RFA (2021),14 GR,Los Angeles Kings,forward
+Michael Eyssimont,24,C,"$700,000",RFA (2021),27 GR,Los Angeles Kings,forward
+Olli Määttä,26,LD,"$4,083,333",UFA (2022),✔,Los Angeles Kings,defense
+Kurtis MacDermid,27,LD/RD,"$875,000",UFA (2022),✔,Los Angeles Kings,defense
+Austin Strand,24,RD,"$735,000",RFA (2021),14 GR,Los Angeles Kings,defense
+Jacob Moverare,22,LD,"$705,556",RFA (2021),27 GR,Los Angeles Kings,defense
+Matt Roy,26,RD,"$700,000",UFA (2024),✔,Los Angeles Kings,defense
+Daniel Brickley,26,LD,"$700,000",UFA (2021),27 GR,Los Angeles Kings,defense
+Mark Alt,29,RD,"$700,000",UFA (2021),25 GR,Los Angeles Kings,defense
+Nick Bonino,33,C,"$4,100,000",UFA (2021),✔,Minnesota Wild,forward
+Victor Rask,28,C,"$4,000,000",UFA (2022),✔,Minnesota Wild,forward
+Nick Bjugstad,28,C,"$4,100,000",UFA (2021),✔,Minnesota Wild,forward
+Ryan Hartman,26,C,"$1,900,000",UFA (2024),✔,Minnesota Wild,forward
+Will Bitten,22,RW,"$805,000",RFA (2021),27 GR,Minnesota Wild,forward
+Mason Shaw,22,C,"$792,500",RFA (2021),27 GR,Minnesota Wild,forward
+Dmitry Sokolov,23,C,"$765,000",RFA (2021),27 GR,Minnesota Wild,forward
+Nico Sturm,26,C,"$725,000",UFA (2022),✔,Minnesota Wild,forward
+Kyle Rau,28,LW,"$700,000",UFA (2021),12 GR,Minnesota Wild,forward
+Luke Johnson,26,C,"$700,000",UFA (2021),13 GR,Minnesota Wild,forward
+Gabriel Dumont,30,C,"$700,000",UFA (2021),27 GR,Minnesota Wild,forward
+Joseph Cramarossa,28,C,"$700,000",UFA (2021),23 GR,Minnesota Wild,forward
+Matt Dumba,26,RD,"$6,000,000",UFA (2023),✔,Minnesota Wild,defense
+Ian Cole,32,LD/RD,"$4,250,000",UFA (2021),✔,Minnesota Wild,defense
+Carson Soucy,26,LD,"$2,750,000",UFA (2023),✔,Minnesota Wild,defense
+Dakota Mermis,27,RD,"$700,000",UFA (2021),24 GR,Minnesota Wild,defense
+Ian McCoshen,25,LD,"$700,000",UFA (2021),27 GR,Minnesota Wild,defense
+Matt Bartkowski,33,RD,"$700,000",UFA (2021),26 GR,Minnesota Wild,defense
+Brad Hunt,32,LD,"$700,000",UFA (2021),✔,Minnesota Wild,defense
+Louis Belpedio,25,RD,"$700,000",UFA (2021),26 GR,Minnesota Wild,defense
+Brennan Menell,24,D,"$716,666",RFA (2020),27 GR,Minnesota Wild,defense
+Paul Byron,32,LW,"$3,400,000",UFA (2023),✔,Montréal Canadiens,forward
+Joel Armia,28,RW,"$2,600,000",UFA (2021),✔,Montréal Canadiens,forward
+Artturi Lehkonen,25,LW,"$2,400,000",RFA (2021),✔,Montréal Canadiens,forward
+Eric Staal,36,C,"$3,250,000",UFA (2021),✔,Montréal Canadiens,forward
+Jordan Weal,29,C,"$1,400,000",UFA (2021),3 GR,Montréal Canadiens,forward
+Corey Perry,36,RW,"$750,000",UFA (2021),✔,Montréal Canadiens,forward
+Jake Evans,25,C,"$750,000",RFA (2022),✔,Montréal Canadiens,forward
+Michael Frolík,33,LW,"$750,000",UFA (2021),✔,Montréal Canadiens,forward
+Michael Pezzetta,23,LW,"$743,333",RFA (2021),27 GR,Montréal Canadiens,forward
+Lukas Vejdemo,25,C,"$700,000",UFA (2021),27 GR,Montréal Canadiens,forward
+Brandon Baddock,26,LW,"$700,000",UFA (2021),27 GR,Montréal Canadiens,forward
+Joseph Blandisi,26,C,"$700,000",RFA (2021),27 GR,Montréal Canadiens,forward
+Laurent Dauphin,26,C,"$700,000",UFA (2021),27 GR,Montréal Canadiens,forward
+Charles Hudon,26,LW,"$800,000",RFA (2020),27 GR,Montréal Canadiens,forward
+Ben Chiarot,30,LD,"$3,500,000",UFA (2022),✔,Montréal Canadiens,defense
+Brett Kulak,27,LD,"$1,850,000",UFA (2022),✔,Montréal Canadiens,defense
+Erik Gustafsson,29,LD/RD,"$3,000,000",UFA (2021),✔,Montréal Canadiens,defense
+Jon Merrill,29,LD,"$925,000",UFA (2021),✔,Montréal Canadiens,defense
+Cale Fleury,22,RD,"$771,666",RFA (2021),13 GR,Montréal Canadiens,defense
+Gustav Olofsson,26,LD,"$750,000",UFA (2021),27 GR,Montréal Canadiens,defense
+Xavier Ouellet,27,LD,"$737,500",UFA (2022),21 GR,Montréal Canadiens,defense
+Mikael Granlund,29,C,"$3,750,000",UFA (2021),✔,Nashville Predators,forward
+Colton Sissons,27,RW,"$2,857,143",UFA (2026),✔,Nashville Predators,forward
+Luke Kunin,23,RW,"$2,300,000",RFA (2022),✔,Nashville Predators,forward
+Calle Järnkrok,29,LW,"$2,000,000",UFA (2022),✔,Nashville Predators,forward
+Rocco Grimaldi,28,LW,"$2,000,000",UFA (2022),✔,Nashville Predators,forward
+Erik Haula,30,C,"$1,750,000",UFA (2021),✔,Nashville Predators,forward
+Nick Cousins,27,LW,"$1,500,000",UFA (2022),✔,Nashville Predators,forward
+Brad Richardson,36,C,"$1,000,000",UFA (2021),✔,Nashville Predators,forward
+Rem Pitlick,24,C,"$874,125",RFA (2021),17 GR,Nashville Predators,forward
+Anthony Richard,24,C,"$735,000",RFA (2021),27 GR,Nashville Predators,forward
+Yakov Trenin,24,LW,"$725,000",RFA (2022),✔,Nashville Predators,forward
+Tanner Jeannot,24,LW,"$713,333",RFA (2021),7 GR,Nashville Predators,forward
+Michael McCarron,26,RW,"$700,000",RFA (2021),21 GR,Nashville Predators,forward
+Sean Malone,26,C,"$700,000",UFA (2021),26 GR,Nashville Predators,forward
+Michael Carcone,25,LW,"$700,000",UFA (2021),27 GR,Nashville Predators,forward
+Erik Gudbranson,29,RD,"$4,000,000",UFA (2021),✔,Nashville Predators,defense
+Mark Borowiecki,31,LD,"$2,000,000",UFA (2022),✔,Nashville Predators,defense
+Matthew Benning,27,RD,"$1,000,000",UFA (2022),✔,Nashville Predators,defense
+Luca Sbisa,31,LD,"$800,000",UFA (2021),9 GR,Nashville Predators,defense
+Alexandre Carrier,24,RD,"$733,333",RFA (2023),2 GR,Nashville Predators,defense
+Frédéric Allard,23,RD,"$714,166",RFA (2021),26 GR,Nashville Predators,defense
+Josh Healey,26,D,"$700,000",RFA (2021),27 GR,Nashville Predators,defense
+Tyler Lewington,26,RD,"$700,000",UFA (2021),25 GR,Nashville Predators,defense
+Ben Harpur,26,LD,"$700,000",RFA (2021),✔,Nashville Predators,defense
+Nick Merkley,24,C,"$874,125",RFA (2021),✔,New Jersey Devils,forward
+Janne Kuokkanen,23,C,"$811,666",RFA (2021),✔,New Jersey Devils,forward
+Marian Studenic,22,RW,"$775,833",RFA (2021),19 GR,New Jersey Devils,forward
+Ben Street,34,C,"$750,000",UFA (2021),27 GR,New Jersey Devils,forward
+Nathan Bastian,23,RW,"$714,166",RFA (2023),✔,New Jersey Devils,forward
+Brandon Gignac,23,C,"$714,166",RFA (2021),27 GR,New Jersey Devils,forward
+AJ Greer,24,LW,"$700,000",RFA (2021),26 GR,New Jersey Devils,forward
+Brett Seney,25,C,"$700,000",UFA (2021),27 GR,New Jersey Devils,forward
+P.K. Subban,32,RD,"$9,000,000",UFA (2022),✔,New Jersey Devils,defense
+Connor Carrick,27,RD,"$1,500,000",UFA (2021),14 GR,New Jersey Devils,defense
+Jonas Siegenthaler,24,LD,"$800,000",RFA (2021),✔,New Jersey Devils,defense
+David Quenneville,23,RD,"$775,833",RFA (2021),27 GR,New Jersey Devils,defense
+Josh Jacobs,25,RD,"$700,000",UFA (2021),27 GR,New Jersey Devils,defense
+Matt Tennyson,31,RD,"$700,000",UFA (2021),6 GR,New Jersey Devils,defense
+Colton White,24,LD,"$700,000",RFA (2021),25 GR,New Jersey Devils,defense
+Colby Sissons,23,LD,"$696,111",RFA (2021),27 GR,New Jersey Devils,defense
+Andrew Ladd,35,LW,"$5,500,000",UFA (2023),27 GR,New York Islanders,forward
+Cal Clutterbuck,33,RW,"$3,500,000",UFA (2022),✔,New York Islanders,forward
+Casey Cizikas,30,C,"$3,350,000",UFA (2021),✔,New York Islanders,forward
+Leo Komarov,34,RW,"$3,000,000",UFA (2022),✔,New York Islanders,forward
+Travis Zajac,36,C,"$5,750,000",UFA (2021),✔,New York Islanders,forward
+Matt Martin,32,LW,"$1,500,000",UFA (2024),✔,New York Islanders,forward
+Ross Johnston,27,LW,"$1,000,000",UFA (2022),5 GR,New York Islanders,forward
+Kieffer Bellows,23,C,"$894,166",RFA (2021),13 GR,New York Islanders,forward
+Otto Koivula,22,LW,"$786,666",RFA (2021),27 GR,New York Islanders,forward
+Austin Czarnik,28,RW,"$725,000",UFA (2022),23 GR,New York Islanders,forward
+Joshua Ho-Sang,25,RW,"$700,000",UFA (2021),27 GR,New York Islanders,forward
+Michael Dal Colle,24,LW,"$700,000",RFA (2021),✔,New York Islanders,forward
+Tanner Fritz,29,C,"$700,000",UFA (2021),27 GR,New York Islanders,forward
+Cole Bardreau,27,C,"$700,000",UFA (2021),27 GR,New York Islanders,forward
+Dmytro Timashov,24,LW,"$700,000",RFA (2021),9 GR,New York Islanders,forward
+Johnny Boychuk,37,RD,"$6,000,000",UFA (2022),✔,New York Islanders,defense
+Thomas Hickey,32,LD,"$2,500,000",UFA (2022),22 GR,New York Islanders,defense
+Braydon Coburn,36,LD,"$1,700,000",UFA (2021),✔,New York Islanders,defense
+Scott Mayfield,28,RD,"$1,450,000",UFA (2023),✔,New York Islanders,defense
+Sebastian Aho,25,LD,"$725,000",RFA (2022),24 GR,New York Islanders,defense
+Parker Wotherspoon,23,LD,"$725,000",RFA (2022),27 GR,New York Islanders,defense
+Andy Greene,38,LD/RD,"$700,000",UFA (2021),✔,New York Islanders,defense
+Brett Howden,23,C,"$863,333",RFA (2021),✔,New York Rangers,forward
+Julien Gauthier,23,RW,"$863,333",RFA (2021),✔,New York Rangers,forward
+Ty Ronning,23,RW,"$750,833",RFA (2021),27 GR,New York Rangers,forward
+Kevin Rooney,28,RW,"$750,000",UFA (2022),✔,New York Rangers,forward
+Anthony Greco,27,RW,"$737,500",UFA (2022),27 GR,New York Rangers,forward
+Tim Gettinger,23,LW,"$730,000",RFA (2021),25 GR,New York Rangers,forward
+Colin Blackwell,28,C,"$725,000",UFA (2022),✔,New York Rangers,forward
+Phillip Di Giuseppe,27,LW,"$700,000",UFA (2021),✔,New York Rangers,forward
+Gabriel Fontaine,24,C,"$700,000",RFA (2021),27 GR,New York Rangers,forward
+Jonny Brodzinski,27,C,"$700,000",UFA (2022),22 GR,New York Rangers,forward
+Anthony Deangelo,25,RD,"$4,800,000",RFA (2022),✔,New York Rangers,defense
+Brendan Smith,32,LD/RD,"$4,350,000",UFA (2021),✔,New York Rangers,defense
+Jack Johnson,34,LD,"$1,150,000",UFA (2021),✔,New York Rangers,defense
+Anthony Bitetto,30,LD,"$737,500",UFA (2022),✔,New York Rangers,defense
+Mason Geertsen,26,LD,"$725,000",UFA (2022),27 GR,New York Rangers,defense
+Brandon Crawley,24,LD,"$700,000",RFA (2021),27 GR,New York Rangers,defense
+Darren Raddysh,25,RD,"$700,000",UFA (2021),27 GR,New York Rangers,defense
+Derek Stepan,30,C,"$6,500,000",UFA (2021),✔,Ottawa Senators,forward
+Artem Anisimov,33,C,"$4,550,000",UFA (2021),✔,Ottawa Senators,forward
+Ryan Dzingel,29,LW,"$3,375,000",UFA (2021),✔,Ottawa Senators,forward
+Austin Watson,29,RW,"$1,500,000",UFA (2023),✔,Ottawa Senators,forward
+Nicholas Paul,26,C,"$1,350,000",UFA (2022),✔,Ottawa Senators,forward
+Jonathan Davidsson,24,RW,"$768,333",RFA (2021),27 GR,Ottawa Senators,forward
+Zachary Magwood,23,C,"$753,333",RFA (2021),27 GR,Ottawa Senators,forward
+Jack Kopacka,23,LW,"$745,000",RFA (2021),27 GR,Ottawa Senators,forward
+Vitaly Abramov,23,LW,"$730,833",RFA (2021),25 GR,Ottawa Senators,forward
+Logan Shaw,28,C,"$725,000",UFA (2022),16 GR,Ottawa Senators,forward
+Clark Bishop,25,C,"$700,000",RFA (2022),14 GR,Ottawa Senators,forward
+Micheal Haley,35,C,"$700,000",UFA (2021),23 GR,Ottawa Senators,forward
+Michael Amadio,25,C,"$700,000",RFA (2021),✔,Ottawa Senators,forward
+J.C. Beaudin,24,C,"$700,000",RFA (2021),27 GR,Ottawa Senators,forward
+Matthew Peca,28,LW,"$700,000",UFA (2021),22 GR,Ottawa Senators,forward
+Joshua Brown,27,RD,"$1,200,000",UFA (2022),✔,Ottawa Senators,defense
+Victor Mete,23,LD/RD,"$735,000",RFA (2021),✔,Ottawa Senators,defense
+Cody Goloubef,31,RD,"$700,000",UFA (2021),27 GR,Ottawa Senators,defense
+James van Riemsdyk,32,LW,"$7,000,000",UFA (2023),✔,Philadelphia Flyers,forward
+Scott Laughton,27,LW,"$2,300,000",UFA (2026),✔,Philadelphia Flyers,forward
+Nicolas Aubé-Kubel,25,RW,"$1,075,000",RFA (2022),✔,Philadelphia Flyers,forward
+German Rubtsov,22,C,"$894,166",RFA (2022),27 GR,Philadelphia Flyers,forward
+Pascal Laberge,23,C,"$780,833",RFA (2021),27 GR,Philadelphia Flyers,forward
+Carsen Twarynski,23,LW,"$775,833",RFA (2021),20 GR,Philadelphia Flyers,forward
+David Kase,24,RW,"$768,333",RFA (2021),26 GR,Philadelphia Flyers,forward
+Andy Andreoff,30,LW,"$750,000",UFA (2021),21 GR,Philadelphia Flyers,forward
+Connor Bunnaman,23,C,"$736,666",RFA (2021),9 GR,Philadelphia Flyers,forward
+Mikhail Vorobyov,24,C,"$784,167",RFA (2020),27 GR,Philadelphia Flyers,forward
+Matt Niskanen,34,RD,"$5,750,000",UFA (2021),✔,Philadelphia Flyers,defense
+Shayne Gostisbehere,28,LD,"$4,500,000",UFA (2023),✔,Philadelphia Flyers,defense
+Justin Braun,34,RD,"$1,800,000",UFA (2022),✔,Philadelphia Flyers,defense
+Robert Hägg,26,LD,"$1,600,000",UFA (2022),✔,Philadelphia Flyers,defense
+Chris Bigras,26,RD,"$700,000",UFA (2021),27 GR,Philadelphia Flyers,defense
+Tyler Wotherspoon,28,LD,"$700,000",UFA (2021),27 GR,Philadelphia Flyers,defense
+Nate Prosser,35,RD,"$700,000",UFA (2021),21 GR,Philadelphia Flyers,defense
+Derrick Pouliot,27,LD,"$700,000",UFA (2021),27 GR,Philadelphia Flyers,defense
+Samuel Morin,25,LD,"$700,000",UFA (2021),7 GR,Philadelphia Flyers,defense
+Jared McCann,25,LW,"$2,940,000",RFA (2022),✔,Pittsburgh Penguins,forward
+Jeff Carter,36,C,"$5,272,727",UFA (2022),✔,Pittsburgh Penguins,forward
+Colton Sceviour,32,RW,"$1,200,000",UFA (2021),✔,Pittsburgh Penguins,forward
+Zach Aston-Reese,26,LW,"$1,000,000",RFA (2021),✔,Pittsburgh Penguins,forward
+Teddy Blueger,26,C,"$750,000",RFA (2021),✔,Pittsburgh Penguins,forward
+Sam Lafferty,26,C,"$750,000",UFA (2022),✔,Pittsburgh Penguins,forward
+Anthony Angello,25,C,"$725,000",RFA (2022),8 GR,Pittsburgh Penguins,forward
+Evan Rodrigues,27,RW,"$700,000",UFA (2021),✔,Pittsburgh Penguins,forward
+Sam Miletic,24,LW,"$700,000",RFA (2021),27 GR,Pittsburgh Penguins,forward
+Frédérick Gaudreau,28,C,"$700,000",UFA (2021),2 GR,Pittsburgh Penguins,forward
+Josh Currie,28,RW,"$700,000",UFA (2021),26 GR,Pittsburgh Penguins,forward
+Mark Jankowski,26,LW,"$700,000",RFA (2021),✔,Pittsburgh Penguins,forward
+Pontus Åberg,27,RW,"$700,000",RFA (2020),27 GR,Pittsburgh Penguins,forward
+Michael Matheson,27,LD,"$4,875,000",UFA (2026),✔,Pittsburgh Penguins,defense
+Cody Ceci,27,RD,"$1,250,000",UFA (2021),✔,Pittsburgh Penguins,defense
+Juuso Riikola,27,LD,"$1,150,000",UFA (2022),16 GR,Pittsburgh Penguins,defense
+Jesper Lindgren,24,RD,"$775,833",RFA (2021),27 GR,Pittsburgh Penguins,defense
+Mark Friedman,25,RD,"$725,000",RFA (2022),18 GR,Pittsburgh Penguins,defense
+Kevin Czuczman,30,LD,"$700,000",UFA (2021),25 GR,Pittsburgh Penguins,defense
+Chad Ruhwedel,31,RD,"$700,000",UFA (2022),✔,Pittsburgh Penguins,defense
+Zach Trotman,30,RD,"$700,000",UFA (2021),27 GR,Pittsburgh Penguins,defense
+Yannick Weber,32,RD,"$700,000",UFA (2021),7 GR,Pittsburgh Penguins,defense
+Alex True,23,C,"$763,333",RFA (2021),20 GR,San Jose Sharks,forward
+Rūdolfs Balcers,24,RW,"$735,000",RFA (2021),✔,San Jose Sharks,forward
+Jayden Halbgewachs,24,LW,"$725,000",RFA (2022),27 GR,San Jose Sharks,forward
+Matt Nieto,28,LW,"$700,000",UFA (2021),✔,San Jose Sharks,forward
+Patrick Marleau,41,LW,"$700,000",UFA (2021),✔,San Jose Sharks,forward
+Kurtis Gabriel,28,RW,"$700,000",UFA (2021),16 GR,San Jose Sharks,forward
+Dylan Gambrell,24,C,"$700,000",RFA (2021),✔,San Jose Sharks,forward
+Maxim Letunov,25,C,"$700,000",UFA (2021),27 GR,San Jose Sharks,forward
+Jonathan Dahlén,23,LW,"$925,000",RFA (2022),27 GR,San Jose Sharks,forward
+Radim Simek,28,LD,"$2,250,000",UFA (2024),✔,San Jose Sharks,defense
+Greg Pateryn,30,RD,"$2,250,000",UFA (2021),14 GR,San Jose Sharks,defense
+Christian Jaros,25,RD,"$750,000",RFA (2021),20 GR,San Jose Sharks,defense
+Jacob Middleton,25,LD,"$725,000",RFA (2022),26 GR,San Jose Sharks,defense
+Nicolas Meloche,23,RD,"$700,000",RFA (2022),20 GR,San Jose Sharks,defense
+Alexander Steen,37,LW,"$5,750,000",UFA (2021),✔,St. Louis Blues,forward
+Tyler Bozak,35,C,"$5,000,000",UFA (2021),✔,St. Louis Blues,forward
+Mike Hoffman,31,RW,"$4,000,000",UFA (2021),✔,St. Louis Blues,forward
+Oskar Sundqvist,27,C,"$2,750,000",UFA (2023),✔,St. Louis Blues,forward
+Samuel Blais,24,RW,"$1,500,000",RFA (2022),✔,St. Louis Blues,forward
+Zachary Sanford,26,LW,"$1,500,000",RFA (2021),✔,St. Louis Blues,forward
+Ivan Barbashev,25,C,"$1,475,000",RFA (2021),✔,St. Louis Blues,forward
+Kyle Clifford,30,LW,"$1,000,000",UFA (2022),✔,St. Louis Blues,forward
+Mackenzie MacEachern,27,LW,"$900,000",UFA (2022),✔,St. Louis Blues,forward
+Tanner Kaspick,23,C,"$738,889",RFA (2022),27 GR,St. Louis Blues,forward
+Sam Anas,28,C,"$725,000",UFA (2022),27 GR,St. Louis Blues,forward
+Curtis McKenzie,30,LW,"$700,000",UFA (2021),27 GR,St. Louis Blues,forward
+Jacob De La Rose,26,C,"$700,000",RFA (2021),✔,St. Louis Blues,forward
+Nathan Walker,27,LW,"$700,000",UFA (2021),19 GR,St. Louis Blues,forward
+Nolan Stevens,24,C,"$700,000",RFA (2021),27 GR,St. Louis Blues,forward
+Austin Poganski,25,RW,"$700,000",UFA (2021),22 GR,St. Louis Blues,forward
+Marco Scandella,31,LD,"$3,275,000",UFA (2024),✔,St. Louis Blues,defense
+Vince Dunn,24,LD/RD,"$1,875,000",RFA (2021),✔,St. Louis Blues,defense
+Carl Gunnarsson,34,LD,"$1,750,000",UFA (2021),✔,St. Louis Blues,defense
+Robert Bortuzzo,32,RD,"$1,375,000",UFA (2022),✔,St. Louis Blues,defense
+Niko Mikkola,25,LD,"$787,500",RFA (2022),✔,St. Louis Blues,defense
+Mitch Reinke,25,RD,"$750,000",UFA (2021),26 GR,St. Louis Blues,defense
+Jake Walman,25,LD,"$725,000",RFA (2022),2 GR,St. Louis Blues,defense
+Steven Santini,26,RD,"$700,000",UFA (2023),22 GR,St. Louis Blues,defense
+Tyler Johnson,30,RW,"$5,000,000",UFA (2024),✔,Tampa Bay Lightning,forward
+Blake Coleman,29,LW,"$1,800,000",UFA (2021),✔,Tampa Bay Lightning,forward
+Barclay Goodrow,28,LW,"$925,000",UFA (2021),✔,Tampa Bay Lightning,forward
+Patrick Maroon,33,LW,"$900,000",UFA (2022),✔,Tampa Bay Lightning,forward
+Taylor Raddysh,23,RW,"$833,333",RFA (2021),27 GR,Tampa Bay Lightning,forward
+Boris Katchouk,22,LW,"$833,333",RFA (2021),27 GR,Tampa Bay Lightning,forward
+Otto Somppi,23,C,"$763,333",RFA (2021),27 GR,Tampa Bay Lightning,forward
+Alex Barré-Boulet,24,C,"$759,258",RFA (2021),12 GR,Tampa Bay Lightning,forward
+Mathieu Joseph,24,C,"$737,500",RFA (2022),✔,Tampa Bay Lightning,forward
+Mitchell Stephens,24,C,"$737,500",RFA (2022),2 GR,Tampa Bay Lightning,forward
+Cristoval Nieves,27,C,"$708,000",UFA (2021),27 GR,Tampa Bay Lightning,forward
+Gemel Smith,27,C,"$700,000",UFA (2021),22 GR,Tampa Bay Lightning,forward
+Daniel Walcott,27,LW,"$700,000",UFA (2023),26 GR,Tampa Bay Lightning,forward
+Ross Colton,24,C,"$700,000",RFA (2021),✔,Tampa Bay Lightning,forward
+Erik Cernak,24,RD,"$2,950,000",RFA (2023),✔,Tampa Bay Lightning,defense
+Jan Rutta,30,RD,"$1,300,000",UFA (2022),✔,Tampa Bay Lightning,defense
+David Savard,30,RD,"$4,250,000",UFA (2021),✔,Tampa Bay Lightning,defense
+Cal Foote,22,RD,"$925,000",RFA (2021),✔,Tampa Bay Lightning,defense
+Luke Schenn,31,RD,"$800,000",UFA (2021),✔,Tampa Bay Lightning,defense
+Fredrik Claesson,28,LD,"$700,000",UFA (2021),21 GR,Tampa Bay Lightning,defense
+Sean Day,23,LD,"$700,000",RFA (2021),27 GR,Tampa Bay Lightning,defense
+Ben Thomas,25,RD,"$700,000",UFA (2021),22 GR,Tampa Bay Lightning,defense
+Luke Witkowski,31,RD,"$700,000",UFA (2021),27 GR,Tampa Bay Lightning,defense
+Andreas Borgman,25,LD,"$700,000",UFA (2021),20 GR,Tampa Bay Lightning,defense
+Brian Lashoff,30,LD,"$700,000",UFA (2021),27 GR,Tampa Bay Lightning,defense
+Dominik Masin,25,LD,"$700,000",RFA (2020),27 GR,Tampa Bay Lightning,defense
+Riley Nash,32,C,"$2,750,000",UFA (2021),✔,Toronto Maple Leafs,forward
+Wayne Simmonds,32,RW,"$1,500,000",UFA (2021),✔,Toronto Maple Leafs,forward
+Nick Foligno,33,LW,"$5,500,000",UFA (2021),✔,Toronto Maple Leafs,forward
+Alex Galchenyuk,27,LW,"$1,050,000",UFA (2021),✔,Toronto Maple Leafs,forward
+Stefan Noesen,28,RW,"$925,000",UFA (2021),8 GR,Toronto Maple Leafs,forward
+Nicolas Petan,26,LW,"$775,000",RFA (2021),20 GR,Toronto Maple Leafs,forward
+Joey Anderson,22,RW,"$750,000",RFA (2023),26 GR,Toronto Maple Leafs,forward
+Kenny Agostino,29,LW,"$737,500",UFA (2021),26 GR,Toronto Maple Leafs,forward
+Adam Brooks,25,C,"$725,000",RFA (2022),14 GR,Toronto Maple Leafs,forward
+Scott Sabourin,28,RW,"$700,000",UFA (2021),18 GR,Toronto Maple Leafs,forward
+Joe Thornton,41,C,"$700,000",UFA (2021),✔,Toronto Maple Leafs,forward
+Antti Suomela,27,C,"$700,000",UFA (2021),23 GR,Toronto Maple Leafs,forward
+Kalle Kossila,28,C,"$700,000",UFA (2021),27 GR,Toronto Maple Leafs,forward
+Denis Malgin,24,RW,"$700,000",RFA (2021),10 GR,Toronto Maple Leafs,forward
+Jason Spezza,38,C,"$700,000",UFA (2021),✔,Toronto Maple Leafs,forward
+Justin Holl,29,RD,"$2,000,000",UFA (2023),✔,Toronto Maple Leafs,defense
+Zach Bogosian,30,RD,"$1,000,000",UFA (2021),✔,Toronto Maple Leafs,defense
+Ben Hutton,28,LD,"$950,000",UFA (2021),✔,Toronto Maple Leafs,defense
+Travis Dermott,24,LD,"$874,125",RFA (2021),✔,Toronto Maple Leafs,defense
+Calle Rosén,27,LD,"$750,000",UFA (2021),27 GR,Toronto Maple Leafs,defense
+Martin Marincin,29,LD,"$700,000",UFA (2021),25 GR,Toronto Maple Leafs,defense
+Loui Eriksson,35,LW,"$6,000,000",UFA (2022),✔,Vancouver Canucks,forward
+Brandon Sutter,32,RW,"$4,375,000",UFA (2021),✔,Vancouver Canucks,forward
+Tanner Pearson,28,LW,"$3,750,000",UFA (2024),✔,Vancouver Canucks,forward
+Micheal Ferland,29,LW,"$3,500,000",UFA (2023),27 GR,Vancouver Canucks,forward
+Sven Baertschi,28,LW,"$3,366,666",UFA (2021),27 GR,Vancouver Canucks,forward
+Jay Beagle,35,C,"$3,000,000",UFA (2022),✔,Vancouver Canucks,forward
+Antoine Roussel,31,LW,"$3,000,000",UFA (2022),✔,Vancouver Canucks,forward
+Jimmy Vesey,28,LW,"$900,000",UFA (2021),✔,Vancouver Canucks,forward
+Kole Lind,22,RW,"$891,666",RFA (2021),21 GR,Vancouver Canucks,forward
+Lukas Jasek,23,RW,"$853,333",RFA (2021),27 GR,Vancouver Canucks,forward
+Petrus Palmu,23,LW,"$825,833",RFA (2021),27 GR,Vancouver Canucks,forward
+Zack MacEwen,24,C,"$825,000",RFA (2022),✔,Vancouver Canucks,forward
+Jayce Hawryluk,25,RW,"$800,000",RFA (2021),✔,Vancouver Canucks,forward
+Jonah Gadjovich,22,LW,"$783,333",RFA (2022),26 GR,Vancouver Canucks,forward
+Justin Bailey,25,RW,"$750,000",UFA (2021),24 GR,Vancouver Canucks,forward
+Matthew Highmore,25,LW,"$725,000",RFA (2022),✔,Vancouver Canucks,forward
+Travis Boyd,27,C,"$700,000",UFA (2021),✔,Vancouver Canucks,forward
+Tyler Graovac,28,C,"$700,000",UFA (2021),15 GR,Vancouver Canucks,forward
+Alexander Edler,35,LD,"$6,000,000",UFA (2021),✔,Vancouver Canucks,defense
+Travis Hamonic,30,RD,"$1,250,000",UFA (2021),✔,Vancouver Canucks,defense
+Madison Bowey,26,RD,"$725,000",UFA (2022),✔,Vancouver Canucks,defense
+Brogan Rafferty,26,RD,"$700,000",UFA (2021),26 GR,Vancouver Canucks,defense
+Jalen Chatfield,25,RD,"$700,000",UFA (2021),10 GR,Vancouver Canucks,defense
+Josh Teves,26,LD,"$700,000",UFA (2021),27 GR,Vancouver Canucks,defense
+Ashton Sautner,27,LD,"$700,000",UFA (2021),27 GR,Vancouver Canucks,defense
+Guillaume Brisebois,23,LD,"$700,000",RFA (2021),26 GR,Vancouver Canucks,defense
+Carl Hagelin,32,LW,"$2,750,000",UFA (2023),✔,Washington Capitals,forward
+Garnet Hathaway,29,LW,"$1,500,000",UFA (2023),✔,Washington Capitals,forward
+Michael Raffl,32,LW,"$1,600,000",UFA (2021),✔,Washington Capitals,forward
+Axel Jonsson-Fjällby,23,LW,"$860,000",RFA (2023),27 GR,Washington Capitals,forward
+Nic Dowd,31,C,"$750,000",UFA (2022),✔,Washington Capitals,forward
+Garrett Pilon,23,C,"$745,000",RFA (2021),26 GR,Washington Capitals,forward
+Beck Malenstyn,23,C,"$736,666",RFA (2021),27 GR,Washington Capitals,forward
+Conor Sheary,29,LW,"$735,000",UFA (2023),✔,Washington Capitals,forward
+Daniel Sprong,24,RW,"$725,000",RFA (2022),✔,Washington Capitals,forward
+Brian Pinho,26,C,"$725,000",UFA (2022),25 GR,Washington Capitals,forward
+Daniel Carr,29,LW,"$700,000",UFA (2021),20 GR,Washington Capitals,forward
+Michael Sgarbossa,28,C,"$700,000",UFA (2021),22 GR,Washington Capitals,forward
+Shane Gersich,24,C,"$700,000",RFA (2021),27 GR,Washington Capitals,forward
+Brenden Dillon,30,LD,"$3,900,000",UFA (2024),✔,Washington Capitals,defense
+Michal Kempný,30,LD,"$2,500,000",UFA (2022),✔,Washington Capitals,defense
+Nick Jensen,30,RD,"$2,500,000",UFA (2023),✔,Washington Capitals,defense
+Trevor van Riemsdyk,29,RD,"$800,000",UFA (2023),✔,Washington Capitals,defense
+Zdeno Chara,44,LD,"$795,000",UFA (2021),✔,Washington Capitals,defense
+Lucas Johansen,23,LD,"$700,000",RFA (2021),27 GR,Washington Capitals,defense
+Cameron Schilling,32,LD,"$700,000",UFA (2021),27 GR,Washington Capitals,defense
+Paul LaDue,28,RD,"$700,000",UFA (2021),27 GR,Washington Capitals,defense
+Paul Stastny,35,C,"$6,500,000",UFA (2021),✔,Winnipeg Jets,forward
+Bryan Little,33,C,"$5,291,667",UFA (2024),27 GR,Winnipeg Jets,forward
+Mathieu Perreault,33,LW,"$4,125,000",UFA (2021),✔,Winnipeg Jets,forward
+Adam Lowry,28,C,"$2,916,667",UFA (2026),✔,Winnipeg Jets,forward
+Trevor Lewis,34,RW,"$750,000",UFA (2021),✔,Winnipeg Jets,forward
+Nate Thompson,36,C,"$750,000",UFA (2021),✔,Winnipeg Jets,forward
+Skyler McKenzie,23,C,"$741,666",RFA (2021),27 GR,Winnipeg Jets,forward
+Jansen Harkins,24,LW,"$725,000",RFA (2022),✔,Winnipeg Jets,forward
+C.J. Suess,27,LW,"$725,000",UFA (2022),27 GR,Winnipeg Jets,forward
+Marko Dano,26,C,"$700,000",RFA (2021),27 GR,Winnipeg Jets,forward
+Dominic Toninato,27,LW,"$700,000",UFA (2021),✔,Winnipeg Jets,forward
+Ivan Telegin,29,LW,$0,RFA (2015),27 GR,Winnipeg Jets,forward
+Jordie Benn,33,LD/RD,"$2,000,000",UFA (2021),✔,Winnipeg Jets,defense
+Nathan Beaulieu,28,LD/RD,"$1,250,000",UFA (2022),✔,Winnipeg Jets,defense
+Derek Forbort,29,LD,"$1,000,000",UFA (2021),✔,Winnipeg Jets,defense
+Logan Stanley,23,LD,"$863,333",RFA (2021),✔,Winnipeg Jets,defense
+Tucker Poolman,28,RD,"$775,000",UFA (2021),✔,Winnipeg Jets,defense
+Luke Green,23,RD,"$733,333",RFA (2021),27 GR,Winnipeg Jets,defense
+Sami Niku,24,RD,"$725,000",RFA (2022),21 GR,Winnipeg Jets,defense
+Nelson Nogier,25,RD,"$725,000",RFA (2022),27 GR,Winnipeg Jets,defense

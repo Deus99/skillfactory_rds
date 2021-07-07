@@ -10,6 +10,12 @@ IVANOV VIACHESLAV DST-11
 nhl_api.ipynb  - ноутбук с описанием NHL API 
 xG_and_ratings.ipynb - EDA, xG рейтинги, визуализация
 draft_exp.ipynb - парсинг сайт capfriendly.com
+RNN.ipynb - Ноутбук с примером RNN  (colab https://colab.research.google.com/drive/1O7Inz_A-dpmIKk_NgUBxZbA468RRyB_R#scrollTo=l02-Vi152r2k) 
+
+DATA - файлы для streamlit (данные 2019-2020 год, только игроки драфта расширения) 
+pkl - папка с архивом файла pkl за 2020 год для примера (NHL API) (еще pkl по ссылке https://www.kaggle.com/kapastor/nhl-data)
+
+
 
 
 v.1 
